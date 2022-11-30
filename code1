@@ -1,6 +1,10 @@
 this is code1
 <<<<<<< HEAD
+<<<<<<< HEAD
 2nd line
 =======
 chnages from branch1
 >>>>>>> branch1
+=======
+chnages from branch1
+>>>>>>> 9f67b3a (commit from branch1)
